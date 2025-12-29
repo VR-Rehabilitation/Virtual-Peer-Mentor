@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Camera0
+  - LeftHand
+  - RightHand
+  - Bullet
+  - Virus
+  - TargetArea
+  - Glass
+  - TargetAreaLeft
+  - TargetAreaRight
+  - FxTemporaire
+  - Monster
+  - CharacterSpawnPoint
+  - Camera1
+  - Camera2
+  - Camera3
+  - Camera4
+  - Camera5
+  - Camera6
+  - Camera7
+  - Camera8
+  - Camera9
+  - Camera10
+  - Camera11
+  - Camera12
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
