@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/01_Scenes/New/Video/pre.unity
+    guid: d29f029a790e68847892f2c14e9443b1
+  - enabled: 0
+    path: Assets/01_Scenes/New/Video/1.unity
+    guid: 93640e9175b51ce44be9e911b9e4f82f
+  - enabled: 0
+    path: Assets/01_Scenes/New/Video/2.unity
+    guid: 0dea155f59ddf084c8161d5fef8cbe11
+  - enabled: 0
+    path: Assets/01_Scenes/New/Video/3.unity
+    guid: 8996123870fc3bf4a98c79a8f1d792bb
+  - enabled: 0
+    path: Assets/01_Scenes/New/Video/4.unity
+    guid: afe47be66aabcff4cad1bc0537c47f1c
+  - enabled: 1
+    path: Assets/01_Scenes/New/Video/5.unity
+    guid: 045de02d7432818429a735b6a03f8211
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: c91734c1ee86c224d8cfab1afb68daf6, type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 5cb6ba28a2a34b64b96ccc5c8342bb1d, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dd3265b8a0e2fed49955a91ed07fc3bf, type: 2}
+  m_UseUCBPForAssetBundles: 0
